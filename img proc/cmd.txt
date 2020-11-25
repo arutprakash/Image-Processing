@@ -1,0 +1,11 @@
+cd
+dir
+ipconfig /?
+mkdir 
+rmdir (/s)
+wmic logicaldisk get name
+C:\>D:
+tree
+color (/?)
+attrib /?
+attri b +h fun
